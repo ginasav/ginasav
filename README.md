@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently looking for freelance iOS development opportunities<br>👯 I'm currently collaborating with teams to build innovative mobile apps<br>🌱 I'm currently learning SwiftUI and advanced iOS architecture patterns<br>💬 Ask me about my transition from linguistic research to iOS development<br>⚡ Fun fact: I apply linguistic analysis skills to create more intuitive user interfaces
+🔭 I'm looking for iOS development opportunities<br>👯 I'm currently collaborating with teams to build innovative mobile apps<br>🌱 I'm currently learning SwiftUI and advanced iOS architecture patterns<br>💬 Ask me about my transition from linguistic research to iOS development<br>⚡ Fun fact: I apply linguistic analysis skills to create more intuitive user interfaces
 
 
 ## 🌐 Socials:
