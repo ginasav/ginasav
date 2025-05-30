@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hey! 👋 I guess you're here for a reason: to look at what I've done so far!\n Before doing so, let me tell you more about who I am.\n I'd like to see myself as a bridge between the worlds of language and code as an iOS developer with roots in linguistic research. Always excited about building apps that connect with people.<br>
+
 🔭 I'm looking for iOS development opportunities<br>👯 I'm currently collaborating with teams to build innovative mobile apps<br>🌱 I'm currently learning SwiftUI and advanced iOS architecture patterns<br>💬 Ask me about my transition from linguistic research to iOS development<br>⚡ Fun fact: I apply linguistic analysis skills to create more intuitive user interfaces
 
 
